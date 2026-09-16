@@ -2,18 +2,11 @@
   <img src="visual/banner.png" width="1024"/>
 </p>
 
- SEZA.SYSTEM
-
----
-<p align="center">
-  <img src="visual/line.png" width="1024"/>
-</p>
+<h1 align="center">SEZA.SYSTEM</h1>
 
 ### DRAGONS • WORLDS • BEYOND IMAGINATION
 
-</div>
-
-
+```
 
 **SEZA.SYSTEM** is an original visual art project centered on the dragon.
 
@@ -24,7 +17,7 @@ scenes, and visual creations developed by **Északi Gábor (seza)**.
 The project combines imagination, geometry, digital creation, 
 and AI-assisted creative work to build a recognizable visual world around the dragon.
 
----
+```
 
 ## ARTWORK
 
@@ -35,17 +28,17 @@ and AI-assisted creative work to build a recognizable visual world around the dr
 
 </div>
 
----
-
 ## DRAGON GALLERY
 
----
+```
 
 The dragon is the central visual presence of SEZA.SYSTEM.
 
-Each artwork explores the dragon in a different environment, atmosphere, composition, or visual story while maintaining the recognizable identity of the project.
+Each artwork explores the dragon in a different environment,
+atmosphere, composition, or visual story while 
+maintaining the recognizable identity of the project.
 
----
+```
 <div align="center">
 
 <img src="artwork/02.png" alt="SEZA.SYSTEM Dragon" width="45%">
@@ -60,41 +53,32 @@ Each artwork explores the dragon in a different environment, atmosphere, composi
 
 </div>
 
----
-
-<p align="center">
-  <img src="visual/line.png" width="1024"/>
-</p>
 
 
 ## WORLDS
 
-Mountains, temples, clouds, forests, oceans, deserts, celestial landscapes and other environments become part of the dragon's world.
+```
+
+Mountains, temples, clouds, forests, oceans, deserts, 
+celestial landscapes and other environments become part of the dragon's world.
 
 The setting may change.
 
-**The dragon remains the constant.**
+The dragon remains the constant.
 
----
-
-<p align="center">
-  <img src="visual/line.png" width="1024"/>
-</p>
-
+```
 
 ## ABOUT
+```
 
-**SEZA.SYSTEM** is created by **Északi Gábor**, a Hungarian origami artist and designer active since 2008.
+SEZA.SYSTEM is created by Északi Gábor, a Hungarian origami artist and designer active since 2008.
 
 The project represents a separate digital creative field developed alongside his long-term work in origami.
 
-AI collaborators are part of the creative process. The artistic direction, concepts, visual development, selection, and overall creative system are developed by the creator.
+AI collaborators are part of the creative process. The artistic direction, concepts, 
+visual development, selection, and overall creative system are developed by the creator.
 
----
-
-<p align="center">
-  <img src="visual/line.png" width="1024" height="250"/>
-</p>
+```
 
 
 ## FOLLOW THE PROJECT
