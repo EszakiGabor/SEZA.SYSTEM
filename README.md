@@ -5,7 +5,9 @@
  SEZA.SYSTEM
 
 ---
-
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
 
 ### DRAGONS • WORLDS • BEYOND IMAGINATION
 
@@ -61,7 +63,7 @@ Each artwork explores the dragon in a different environment, atmosphere, composi
 ---
 
 <p align="center">
-  <img src="visual/line.png" width="1024" height="250"/>
+  <img src="visual/line.png" width="1024"/>
 </p>
 
 
