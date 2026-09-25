@@ -42,14 +42,40 @@ maintaining the recognizable identity of the project.
 <div align="center">
 
 <img src="artwork/02.png" alt="SEZA.SYSTEM Dragon" width="45%">
+
+### White Dragon XL — THE SILENT MOMENT
+
+[View on TikTok →](IDE_JÖN_A_02_TIKTOK_LINK)
+
+</div>
+
+<div align="center">
+
 <img src="artwork/03.png" alt="SEZA.SYSTEM Dragon" width="45%">
+
+### White Dragon 84 — The Eye of Heaven
+
+[View on TikTok →](IDE_JÖN_A_03_TIKTOK_LINK)
 
 </div>
 
 <div align="center">
 
 <img src="artwork/04.png" alt="SEZA.SYSTEM Dragon" width="45%">
+
+### White Dragon XIII
+
+[View on TikTok →](https://www.tiktok.com/@seza.system/video/7676360868518448406)
+
+</div>
+
+<div align="center">
+
 <img src="artwork/05.png" alt="SEZA.SYSTEM Dragon" width="45%">
+
+### White Dragon
+
+[View on TikTok →](IDE_JÖN_A_05_TIKTOK_LINK)
 
 </div>
 
