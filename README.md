@@ -45,7 +45,7 @@ maintaining the recognizable identity of the project.
 
 ### White Dragon XL — THE SILENT MOMENT
 
-[View on TikTok →](IDE_JÖN_A_02_TIKTOK_LINK)
+[View on TikTok →](https://www.tiktok.com/@seza.system/video/7676360868518448406)
 
 </div>
 
@@ -55,7 +55,7 @@ maintaining the recognizable identity of the project.
 
 ### White Dragon 84 — The Eye of Heaven
 
-[View on TikTok →](IDE_JÖN_A_03_TIKTOK_LINK)
+[View on TikTok →](link)
 
 </div>
 
@@ -65,7 +65,7 @@ maintaining the recognizable identity of the project.
 
 ### White Dragon XIII
 
-[View on TikTok →](https://www.tiktok.com/@seza.system/video/7676360868518448406)
+[View on TikTok →](link)
 
 </div>
 
