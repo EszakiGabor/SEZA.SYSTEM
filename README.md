@@ -82,7 +82,7 @@ maintaining the recognizable identity of the project.
 </p>
 
 
-## WORLDS
+### WORLDS
 
 ```
 
@@ -100,7 +100,7 @@ The dragon remains the constant.
 </p>
 
 
-## ABOUT
+### ABOUT
 
 ```
 
@@ -118,7 +118,7 @@ visual development, selection, and overall creative system are developed by the 
 
 
 
-## FOLLOW THE PROJECT
+### FOLLOW THE PROJECT
 
 
 Official TikTok:
