@@ -61,6 +61,7 @@ atmosphere, composition, or visual story while
 maintaining the recognizable identity of the project.
 
 ```
+
 <div align="center">
 
 <div align="center">
