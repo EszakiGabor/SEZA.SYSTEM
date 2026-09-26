@@ -4,6 +4,10 @@
 
 <h1 align="center">SEZA.SYSTEM</h1>
 
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
+
 ### DRAGONS • WORLDS • BEYOND IMAGINATION
 
 ```
@@ -18,6 +22,10 @@ The project combines imagination, geometry, digital creation,
 and AI-assisted creative work to build a recognizable visual world around the dragon.
 
 ```
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
+
 
 ## ARTWORK
 
@@ -27,6 +35,10 @@ and AI-assisted creative work to build a recognizable visual world around the dr
 <img src="artwork/01.png" alt="SEZA.SYSTEM Artwork" width="90%">
 
 </div>
+
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
 
 ## DRAGON GALLERY
 
@@ -41,7 +53,7 @@ maintaining the recognizable identity of the project.
 ```
 <div align="center">
 
-<img src="artwork/02.png" alt="SEZA.SYSTEM Dragon" width="45%">
+<img src="artwork/02.png" alt="SEZA.SYSTEM Dragon" width="35%">
 
 ### White Dragon XL — THE SILENT MOMENT
 
@@ -51,7 +63,7 @@ maintaining the recognizable identity of the project.
 
 <div align="center">
 
-<img src="artwork/03.png" alt="SEZA.SYSTEM Dragon" width="45%">
+<img src="artwork/03.png" alt="SEZA.SYSTEM Dragon" width="35%">
 
 ### White Dragon 84 — The Eye of Heaven
 
@@ -61,7 +73,7 @@ maintaining the recognizable identity of the project.
 
 <div align="center">
 
-<img src="artwork/04.png" alt="SEZA.SYSTEM Dragon" width="45%">
+<img src="artwork/04.png" alt="SEZA.SYSTEM Dragon" width="35%">
 
 ### White Dragon XIII
 
@@ -71,7 +83,7 @@ maintaining the recognizable identity of the project.
 
 <div align="center">
 
-<img src="artwork/05.png" alt="SEZA.SYSTEM Dragon" width="45%">
+<img src="artwork/05.png" alt="SEZA.SYSTEM Dragon" width="35%">
 
 ### White Dragon
 
@@ -79,6 +91,9 @@ maintaining the recognizable identity of the project.
 
 </div>
 
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
 
 
 ## WORLDS
@@ -94,6 +109,10 @@ The dragon remains the constant.
 
 ```
 
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
+
 ## ABOUT
 ```
 
@@ -105,6 +124,10 @@ AI collaborators are part of the creative process. The artistic direction, conce
 visual development, selection, and overall creative system are developed by the creator.
 
 ```
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
+
 
 
 ## FOLLOW THE PROJECT
@@ -116,6 +139,10 @@ Official TikTok:
 New visual works and ongoing creations are published as the project evolves.
 
 ---
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
+
 
 <div align="center">
 
