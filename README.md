@@ -63,7 +63,6 @@ maintaining the recognizable identity of the project.
 
 ```
 
-<div align="center">
 
 <div align="center">
 
@@ -77,12 +76,14 @@ maintaining the recognizable identity of the project.
 </table>
 
 </div>
+
 <p align="center">
   <img src="visual/line.png" width="1024"/>
 </p>
 
 
 ### WORLDS
+---
 
 ```
 
@@ -95,12 +96,8 @@ The dragon remains the constant.
 
 ```
 
-<p align="center">
-  <img src="visual/line.png" width="1024"/>
-</p>
-
-
 ### ABOUT
+---
 
 ```
 
