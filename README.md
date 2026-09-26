@@ -7,11 +7,11 @@
 </p>
 
   <p align="center">
-  <a href="./README.md"><img src="./visual/home.png" width="140" height="52"></a>
-  <a href="./LICENSE.md"><img src="./visual/license.png" width="140" height="52"></a>
-  <a href="./ABOUT.md"><img src="./visual/about.png" width="140" height="52"></a>
-  <a href="./GALLERY.md"><img src="./visual/gallery.png" width="140" height="52"></a>
-  <a href="./PROJECT.md"><img src="./visual/project.png" width="140" height="52"></a>
+  <a href="./README.md"><img src="./visual/home.png" width="140" height="40"></a>
+  <a href="./LICENSE.md"><img src="./visual/license.png" width="140" height="40"></a>
+  <a href="./ABOUT.md"><img src="./visual/about.png" width="140" height="40"></a>
+  <a href="./GALLERY.md"><img src="./visual/gallery.png" width="130" height="40"></a>
+  <a href="./PROJECT.md"><img src="./visual/project.png" width="140" height="40"></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@
 </p>
 
 ### DRAGONS • WORLDS • BEYOND IMAGINATION
-
 ```
 
 **SEZA.SYSTEM** is an original visual art project centered on the dragon.
@@ -51,7 +50,6 @@ and AI-assisted creative work to build a recognizable visual world around the dr
 </p>
 
 ## DRAGON GALLERY
-
 ```
 
 The dragon is the central visual presence of SEZA.SYSTEM.
@@ -63,51 +61,24 @@ maintaining the recognizable identity of the project.
 ```
 <div align="center">
 
-<img src="artwork/02.png" alt="SEZA.SYSTEM Dragon" width="35%">
-
-### White Dragon XL — THE SILENT MOMENT
-
-[View on TikTok →](https://www.tiktok.com/@seza.system/video/7676360868518448406)
-
-</div>
-
 <div align="center">
 
-<img src="artwork/03.png" alt="SEZA.SYSTEM Dragon" width="35%">
-
-### White Dragon 84 — The Eye of Heaven
-
-[View on TikTok →](link)
-
-</div>
-
-<div align="center">
-
-<img src="artwork/04.png" alt="SEZA.SYSTEM Dragon" width="35%">
-
-### White Dragon XIII
-
-[View on TikTok →](link)
+<table>
+<tr>
+<td><img src="artwork/02.png" alt="SEZA.SYSTEM Dragon" width="180"></td>
+<td><img src="artwork/03.png" alt="SEZA.SYSTEM Dragon" width="180"></td>
+<td><img src="artwork/04.png" alt="SEZA.SYSTEM Dragon" width="180"></td>
+<td><img src="artwork/05.png" alt="SEZA.SYSTEM Dragon" width="180"></td>
+</tr>
+</table>
 
 </div>
-
-<div align="center">
-
-<img src="artwork/05.png" alt="SEZA.SYSTEM Dragon" width="35%">
-
-### White Dragon
-
-[View on TikTok →](IDE_JÖN_A_05_TIKTOK_LINK)
-
-</div>
-
 <p align="center">
   <img src="visual/line.png" width="1024"/>
 </p>
 
 
 ## WORLDS
-
 ```
 
 Mountains, temples, clouds, forests, oceans, deserts, 
