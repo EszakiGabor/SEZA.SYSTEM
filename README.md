@@ -50,6 +50,7 @@ and AI-assisted creative work to build a recognizable visual world around the dr
   <img src="visual/line.png" width="1024"/>
 </p>
 
+
 ## DRAGON GALLERY
 
 ```
@@ -98,6 +99,7 @@ The dragon remains the constant.
   <img src="visual/line.png" width="1024"/>
 </p>
 
+
 ## ABOUT
 
 ```
@@ -117,6 +119,7 @@ visual development, selection, and overall creative system are developed by the 
 
 
 ## FOLLOW THE PROJECT
+
 
 Official TikTok:
 
