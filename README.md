@@ -19,6 +19,7 @@
 </p>
 
 ### DRAGONS • WORLDS • BEYOND IMAGINATION
+
 ```
 
 **SEZA.SYSTEM** is an original visual art project centered on the dragon.
@@ -50,6 +51,7 @@ and AI-assisted creative work to build a recognizable visual world around the dr
 </p>
 
 ## DRAGON GALLERY
+
 ```
 
 The dragon is the central visual presence of SEZA.SYSTEM.
@@ -79,6 +81,7 @@ maintaining the recognizable identity of the project.
 
 
 ## WORLDS
+
 ```
 
 Mountains, temples, clouds, forests, oceans, deserts, 
@@ -95,6 +98,7 @@ The dragon remains the constant.
 </p>
 
 ## ABOUT
+
 ```
 
 SEZA.SYSTEM is created by Északi Gábor, a Hungarian origami artist and designer active since 2008.
