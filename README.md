@@ -2,7 +2,17 @@
   <img src="visual/banner.png" width="1024"/>
 </p>
 
-<h1 align="center">SEZA.SYSTEM</h1>
+<p align="center">
+  <img src="visual/line.png" width="1024"/>
+</p>
+
+  <p align="center">
+  <a href="./README.md"><img src="./visual/home.png" width="140" height="52"></a>
+  <a href="./LICENSE.md"><img src="./visual/license.png" width="140" height="52"></a>
+  <a href="./ABOUT.md"><img src="./visual/about.png" width="140" height="52"></a>
+  <a href="./GALLERY.md"><img src="./visual/gallery.png" width="140" height="52"></a>
+  <a href="./PROJECT.md"><img src="./visual/project.png" width="140" height="52"></a>
+</p>
 
 <p align="center">
   <img src="visual/line.png" width="1024"/>
