@@ -214,7 +214,7 @@ function ouch(){ // one life lost; 0 = ignored (invincible), 1 = game over, 2 = 
 function hit(o){if(ouch()==2){y=gapCenter(o);vy=0;hist.fill(y)}}
 function act(){
  if(state==='paused'){state='play';return}
- if(state==='title'){if(ART.n+ART.err<1)return;reset();state='play';vy=-6.4;BailongSound.play('flap')}
+ if(state==='title'){reset();state='play';vy=-6.4;BailongSound.play('flap')}
  else if(state==='play'){vy=mobileTouch?-7.3:-6.4;BailongSound.play('flap')}
  else if(state==='dead'&&lock<=0){retry();state='play';vy=-6.4;BailongSound.play('flap')}
  else if(state==='end'&&lock<=0){reset();state='play';vy=-6.4;BailongSound.play('flap')}
