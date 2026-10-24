@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b1930">
+<meta name="description" content="Bailong — a one-touch celestial dragon challenge. Navigate heavenly pillars and outwit mythical spirits.">
+<title>BAILONG · The Heavenly Passage</title>
+<link rel="stylesheet" href="style.css">
+<script src="challenge.js" defer></script>
+<script src="audio.js" defer></script>
+<script src="ui.js" defer></script>
+<script src="game.js" defer></script>
+</head>
+<body>
+ <main class="stage" id="stage" aria-label="Bailong, a flying dragon game">
+  <canvas id="c" aria-label="Game field. Tap to fly." tabindex="0"></canvas>
+  <section id="hud" class="hud" aria-label="Game information" hidden>
+   <div class="hud-top">
+    <div class="hearts" id="hearts" aria-label="Three hearts">♥ ♥ ♥</div>
+    <div class="hud-score" aria-label="Coins"><span class="coin-dot" aria-hidden="true">✦</span><span id="coins">0</span></div>
+    <button id="soundBtn" class="icon-button" aria-label="Toggle sound" title="Sound">♪</button>
+    <button id="pauseBtn" class="icon-button" aria-label="Pause game" title="Pause">Ⅱ</button>
+   </div>
+   <div class="progress-rail"><div class="progress-fill" id="progressFill"></div></div>
+   <div class="hud-bottom"><span id="levelLabel">CLOUD PATH</span><span id="shield" hidden>✤ SHIELD</span><span id="progressLabel">0%</span></div>
+  </section>
+  <div class="veil" id="veil">
+   <section class="menu-card" id="menuCard" aria-live="polite">
+    <p class="eyebrow" id="menuEyebrow">THE HEAVENLY PASSAGE</p>
+    <h1 id="menuTitle">BAILONG</h1>
+    <p id="menuDescription" class="menu-description">Fly between the heavenly pillars. Master the rhythm. Reach Heaven's Gate.</p>
+    <div class="menu-stats" id="menuStats"><span>♥ 3 LIVES</span><span>✦ 8 STAGES</span></div>
+    <button class="primary-btn" id="mainBtn">BEGIN FLIGHT <span aria-hidden="true">→</span></button>
+    <p class="menu-help" id="menuHelp">TAP / SPACE / ↑ TO FLY · P TO PAUSE</p>
+   </section>
+  </div>
+  <div class="toast" id="toast" aria-live="polite"></div>
+ </main>
+ <aside class="outside-note">BAILONG <span>•</span> THE HEAVENLY PASSAGE</aside>
+</body>
+</html>
